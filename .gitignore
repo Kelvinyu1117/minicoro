@@ -1,6 +1,15 @@
 # Prerequisites
 *.d
 
+# clangd caches
+.cache
+
+# Build directories and binary files
+build/
+out/
+cmake-build-*/
+conan-cache/
+
 # Compiled Object files
 *.slo
 *.lo
