@@ -1,4 +1,4 @@
-# mini-coro
+# minicoro
 
 Simple, Extendable, Minimalistic C++20 Coroutine Framework.
 
